@@ -1,9 +1,6 @@
 # hello-world
 just another repository
+Hi humans! 
 
-
-
-
-I'm a news in this apartment,so I need
-more time and enerage to improve my
-abilities.
+hubit here,I like Node,
+I've had tacos on the moon. 
